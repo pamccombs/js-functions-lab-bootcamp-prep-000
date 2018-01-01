@@ -1,6 +1,6 @@
 // write your code below!
 
-var name = "you" ;
+var name = "you";
 var 
 
 
